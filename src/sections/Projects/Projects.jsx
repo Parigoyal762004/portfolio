@@ -30,7 +30,7 @@ function Projects() {
         />
         <ProjectCard
           src={fitLift}
-          link="https://github.com/Parigoyal762004/appoint_doc"
+          link="https://docappoint123456-parigoyal762004s-projects.vercel.app/"
           h3="Appoint_doc"
           p="Real time Doctor appointment  App"
         />
