@@ -1,8 +1,26 @@
-# React + Vite
+# My-portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is my old portfolio site I made around a year ago. It was my first serious attempt at building something real on the web, and honestly — it did its job. Not perfect, but it helped me learn the ropes of React, Vite, and component-based development.
 
-Currently, two official plugins are available:
+Back then, I was just figuring out the basics and exploring tools like Monstac (kinda), Vite, and plain React. This project isn't flashy — but it was a solid start.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+> 🚧 I'm planning to redesign and rebuild this portfolio soon. This one's staying here as a little time capsule.
+
+---
+
+## ⚙️ Tech Stack
+
+- **React**
+- **Vite**
+- **Basic HTML/CSS**
+- Maybe a little Monstac-ish flavor in structure 👀
+
+---
+
+## 📸 What It Does
+
+- Personal portfolio site with sections for About, Projects, Contact.
+- Responsive-ish layout.
+- Just vibes. (And an early design aesthetic.)
+
+
